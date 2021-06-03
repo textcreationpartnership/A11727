@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confessioun of faith professit, and beleuit, be the Protestantes vvithin the realme of Scotland Published be thaim in Parliament. And be the estatis thairof. Ratifeit and appreuit, as hailsum, &amp; sound doctryne groundit vpon the infallible treuth of Goddis vvorde</title>
+            <title>Confession of Faith (1560)</title>
+            <author>Church of Scotland.</author>
+         </titleStmt>
+         <extent>Approx. 58KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A11727</idno><idno type="EEBO-CITATION">99849979</idno>
+  <idno type="VID">15160</idno>
+  <idno type="EEBO-PROQUEST">2248536824</idno>
+  <idno type="STC">STC 22016</idno>
+  <idno type="STC">ESTC S114756</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849979e"/>
+            <note>(EEBO-TCP ; phase 2, no. A11727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15160)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1584:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confessioun of faith professit, and beleuit, be the Protestantes vvithin the realme of Scotland Published be thaim in Parliament. And be the estatis thairof. Ratifeit and appreuit, as hailsum, &amp; sound doctryne groundit vpon the infallible treuth of Goddis vvorde</title>
+                  <title>Confession of Faith (1560)</title>
+                  <author>Church of Scotland.</author>
+               </titleStmt>
+               <extent>[38] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprentit be me Jhone Scott,</publisher>
+                  <pubPlace>[At Edinburgh ye 17. day of July :</pubPlace>
+                  <date>1561]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Preamble begins: 'Long haue we trustede [i.e. thirsted]'; Chapter 1 begins: 'We confes and acknawledge ane only God'.</note>
+                  <note>Signatures: pi¹ [A]-D⁴ E² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Catechisms --  Early works to 1800.</term>
+               <term type="corporate_name">Church of Scotland --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:15160:1"/>
+            <pb facs="tcp:15160:1"/>
+            <p>
+               <hi>THE <hi>Confessioun of</hi> fa<g ref="char:EOLhyphen"/>ITH PROFESSIT, AND BELEVIT, BE</hi> the Protestantes vvithin the Realme of Scotland. Pub<g ref="char:EOLhyphen"/>lisched be thaim in Parliament. And be the Estatis thairof. Ratifeit and appreuit, as hailsū, &amp; sound Doctryne groundit vpon the infallible treuth of <hi>GODDIS</hi> vvorde Math. <hi>24.</hi>
+            </p>
+            <p>☞ <hi>And this glaid tydingis of the Kingdome, salbe preached through the heale warld for ane wytnes vnto all nationis: And than sall the end cum.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:15160:2"/>
+            <pb facs="tcp:15160:2"/>
+            <head>❧ the Estatis of Scot<g ref="char:EOLunhyphen"/>lande, with the Inhabitantis of the same, profes<g ref="char:EOLunhyphen"/>sing <hi>CHIST IESVS,</hi> his holye Euangell. To thair naturall countremen, and to al vther Real<g ref="char:EOLhyphen"/>mes and Nationes, professing the same <hi>LORD IESVS,</hi> with thaun. Wyshe grace mercy and peace from <hi>GOD</hi> the Father of our <hi>LORD</hi> Iesus Christe, with the Spirite of ry<g ref="char:EOLhyphen"/>chteous Iugement. For Saluta<g ref="char:EOLhyphen"/>tioun. &amp;c.</head>
+            <p>
+               <hi>LONG HAVE</hi> We thrustede deir Bre<g ref="char:EOLhyphen"/>threne to haue notified vnto the warld the soume of that Doctryne quhilk we profes and for the quhilk, we haue susteaned, In famye, and dangeare. But sick hes bene, y<seg rend="sup">e</seg> rage of Sathā aganis ws, and aganis Christ <hi>IESVS</hi> his eternall veritie, laitlie borne amangis ws:</p>
+            <p>That to this day na tyme hes bene grātit vnto vs to cleir our consciencis, as maiste glaidlie we walde haue done. For how we haue bene tossed a heale ʒeir paste, the maist part of Europe (as we suppose) dois vnderstand. Bot seing that of the infinite gudnes of our <hi>GOD</hi> (quha neuer suffe<g ref="char:EOLhyphen"/>reth his afflicted vterlye to be confoundit) abuse expectation we haif obtenit sū rest, &amp; libertie we culd not bot set surth this breif &amp; plane cōfession of sicke doctryne as is proponed vnto vs, and as
+<pb facs="tcp:15160:3"/> we beleue and professe partlie for satisfactioun of oure brethrein, quhais hartis we doute not, haue bene, and ʒit ar wōndit, be the despitfull rayling of sicke, as ʒit haue nocht learned to speike weill: &amp; partlie for slopping of the mouthis of impudēt blasphemaris, quha badlye dampne that, quhilk thay haif nother hard, nor ʒit vnderstād. Quhilk y<seg rend="sup">t</seg> we iudge that y<seg rend="sup">e</seg> cankerid malice of sick is able to be curit be this our simple confession. No we knawe that the sweit sauoure of the Euangell, is and salbe deth to the Sonnis of pardition. Bot we haue cheif respect to oure weake and infirme brethrene, to quhome we walde communicat the bodum of once hartis, lesse that they be trou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or caryed away be diuersitie of rumouris, quhilk Sathā sparsith cōtrare vs, to y<seg rend="sup">e</seg> defasing of this our maist godlie niterpryse. Protesting that ge<g ref="char:EOLhyphen"/>ue ony man wyll note in this our confessioun ony Artycle, or sentence, repugning to goddis hylye worde, that it wald pleis him, of his gentilnes, &amp; for Christiane cheriteis saike, to admonische ws of the same in wrytt. And we of oure honouris &amp; fidelitie, do promers vnto him satisfaction fraye mouth of <hi>GOD</hi> (that is fra his halye scripturs) or ellis reformatioun of that quhilk he sall proue to be amys. For <hi>GOD</hi> we take to recorde in our cōscience y<seg rend="sup">e</seg> fra our hartes we abhorre all Sectis of heresie, &amp; al techearis of erronious doctryne, &amp; y<seg rend="sup">t</seg> with al humilitie, we embrace y<seg rend="sup">e</seg> puritie of Chri<g ref="char:EOLunhyphen"/>stis Euangell. Quhilk is the onelie fude of our
+<pb facs="tcp:15160:3"/> Saulis: And thairfore sa precious vnto vs, that we ar determyned to suffer y<seg rend="sup">e</seg> extremitie of wardly daingear, rather than that we wyll suffer oure selfes to be defraudit of the same. For heirof we ar maist certainelye pecswadit that quhasoeuer denyis Christe Iesus, or is eschamit of him, in presens of Men, salbe deny it before the Father, and before his halye Angelis. And tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rfore be the assistance of the mychtye S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irite off thee same oure <hi>LORD</hi> Iesus, we firmelye purppose to abyde to the end, in the confessioun of this our faith, as be A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ycles followis.</p>
+            <div type="part">
+               <head>Off God.</head>
+               <p>
+                  <hi>VVE CONFES</hi> And acknawledge ane only God, to quhome onelye we muste cleaue,<note place="margin">
+                     <hi>Deut.</hi> 6. <hi>Esay.</hi> 44. <hi>Deut.</hi> 4.</note> quhome onlye we must<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> serue, quhome onlye we muste wors<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hipe, and in quhome only we put our traist. Quhoo is Eternale, infinyte, vnmeasu<g ref="char:EOLhyphen"/>rable, incomprehensible, omnipotent, inuisable, ane in substance, and ʒit distinct into three perso<g ref="char:EOLhyphen"/>nis. The Father, the Sone, and the holy Gaist.<note place="margin">
+                     <hi>Math.</hi> 28. <hi>genesis.</hi> 1.</note> Be quhome we confesse and beleue, all thngis in heuin and earth, alsweill visible, as inuisible to haue bene created,
+<pb facs="tcp:15160:4"/> to be reteanit in thair being, and to be rewlit and gydit be his inscrutable prouidence, to sic end as his eternale wysedome,<note place="margin">
+                     <hi>Prover.</hi> 16.</note> gubnes, and iustice, hes appoyntit thaim, to the manifestatioun of his awin glorie.</p>
+            </div>
+            <div type="part">
+               <head>OF THE CREATION OF MAN.</head>
+               <p>
+                  <hi>VVE CONFES</hi> and acknawledge this our <hi>GOD,</hi>
+                  <note place="margin">genesis. <hi>1.</hi> &amp;. <hi>2.</hi> &amp;c.</note> to haue creatit man (to witt oure first father Adame) to his awin Ymage, and similitude. To quhome he gaif wy<g ref="char:EOLhyphen"/>sedome, Lordschipe, Iustice, fre wyll, and cleare knawledge of him self. So that in the hole na<g ref="char:EOLhyphen"/>ture of mā, thair culde be notit no imperfection.</p>
+               <p>
+                  <note place="margin">
+                     <hi>genesis.</hi> 3.</note>Frome quhilk honour and perfectioun, man and Woman did baith fall, the womā being desauit be the Serpent: And man obeying the voice off the woman: baith conspiring aganis the Soue<g ref="char:EOLhyphen"/>rane Maiestie of <hi>GOD,</hi> quho in expressit wordis had before threatned deth, geue thay presumit to eate of the forbiddin tre.</p>
+            </div>
+            <div type="part">
+               <head>❧ OF ORIGINALL SYN.</head>
+               <p>
+                  <hi>BE QVHILK</hi> Transgressioun commoun<g ref="char:EOLhyphen"/>lye callit Originall synne: wes the Ymage of <hi>GOD</hi> vterlie defaceide in Man. And hee and his Posteritie of Nature became Innimeis to <hi>GOD,</hi>
+                  <note place="margin">
+                     <hi>Ephe.</hi> 2. <hi>Roma.</hi> 5.</note> slaues to Sathan, and ser<g ref="char:EOLhyphen"/>uādis to sinne. In samekle that deth euerlesting
+<pb facs="tcp:15160:4"/> hath had, and sal haue, power, and domination. ouer all that haue nocht bene, ar nocht, or sal not be, regenerat frome abuse.<note place="margin">
+                     <hi>Iohane.</hi> 3. <hi>Ro.</hi> 5. <hi>&amp;.</hi> 6.</note> Quhilk regeneratiō is wrocht be the power of the haly Gaiste, wyrk<g ref="char:EOLhyphen"/>ing in the hartis of the elect of <hi>GOD,</hi> ane assurit faith in the promeis of <hi>GOD,</hi> reuelit to ws in his word. Be quhilk faith thay apprehend <hi>CHRIST IESVS,</hi> with the graces and benefites promissis in him.</p>
+            </div>
+            <div type="part">
+               <head>OF THE REVELATION OF THE PROMIS.</head>
+               <p>
+                  <hi>FOR THIS</hi> We cōstantlie beleue that <hi>GOD</hi> efter the fearfull and horrible defectioun of man frome his obedience, did seil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Adame agane, call vpon him, rebuke his synne,<note place="margin">
+                     <hi>Genesis.</hi> 3.</note> cō<g ref="char:EOLhyphen"/>uict him of ye sam, and in the end maid vnto him ane maist Ioyefull promis: to wit, that the seide of the Woman sulde break down the Serpentis heade. That is, he sulde distroye the workis off the Deuyll. Quhilk promis as it wes reapetid,<note place="margin">
+                     <hi>genesis.</hi> 12.15 <hi>&amp;c. Esaye.</hi> 7.8. <hi>&amp;c.</hi>
+                  </note> and maid more cleare from tyme to tyme: so wes it embrased with Ioye, and maist constantlie re<g ref="char:EOLhyphen"/>teanit of all the faithfull, frome Adam to Noye, frome Noye to Abraham, from Abraham to Da<g ref="char:EOLunhyphen"/>uid, and so furth to the incarnation of Christ Ie<g ref="char:EOLhyphen"/>sus. Quho all (we mene the faithfull fatheris) vnder the law, did se the Ioyfull dayis of Christ Iesus, and did reioyse.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:15160:5"/>
+               <head>THE CONTINVANCE, ENCRES AND PRESERVATION OF THE KIRK.</head>
+               <p>VVe maiste constantlie beleue, that <hi>GOD</hi> preserued, instructed, multipled, honoured decored,<note place="margin">
+                     <hi>Ezech.</hi> 16.</note> and from death, called to lyfe, his kirk in all agis: frome Adam tyll the cumyng of Christe Iesus in the flesche.<note place="margin">
+                     <hi>genesi.</hi> 12. <hi>Ex.</hi> 1. <hi>&amp;</hi> 2. <hi>&amp;</hi> 13.</note> For Abraham, hee called frome his fatheris countre, him he instruc<g ref="char:EOLunhyphen"/>ted, his seid he multipyed, y<seg rend="sup">e</seg> sā he mualously pre<g ref="char:EOLhyphen"/>serued, and mair merualouslie delyuered frome the bondage,<note place="margin">
+                     <hi>Exod.</hi> 20. <hi>Ios<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> 1.2.3. <hi>&amp;c.</hi> 1. <hi>Sam.</hi> 16.</note> and tyrannie of Pharo. To thaim he gaue his lawis, constitutionis, and Ceremo<g ref="char:EOLhyphen"/>nies. Thaim he possessed in the land of Canaan, to thaim efter Iudgis, and efter Saule, he ga<g ref="char:EOLhyphen"/>ue Dauid to be king, to quhome he maid promis that of y<seg rend="sup">e</seg> frute of his loynes sulde one sit for euer vpon his regall seat. To this sam people frome tyme to tyme, he send Prophetis, to reduce tham to the rycht way of thair God,<note place="margin">2. <hi>Reg.</hi> 17 2. <hi>Reg.</hi> 7.24. <hi>&amp;</hi> 25 <hi>Deut.</hi> 29. <hi>Iereme.</hi> 39. <hi>Esdras</hi> 1. <hi>Hag.</hi> 1. <hi>&amp;</hi> 2 <hi>Zacha.</hi> 3.</note> from y<seg rend="sup">e</seg> quhilk of<g ref="char:EOLhyphen"/>tentymes thay declyned by Ydolatrie. And albe<g ref="char:EOLhyphen"/>it y<seg rend="sup">e</seg> for thair stubbourne {con}tempt of iustice, he wes cōpellit to geue thaim in y<seg rend="sup">e</seg> hādis of thair enimeis as before wes threatnid by the mouth of Moses in samekle, y<seg rend="sup">t</seg> the holye Cietie wes distroyed, the temple brynt with fyre, and the hole land left de<g ref="char:EOLhyphen"/>solate the space of 70. ʒeris: ʒit of mercy did hee reduce thaim agane to Ierusalem. Quhare the citie, and temple, war reedified, and thay against all temptationis and assaultis of Sathan, did a byd, tyll the Messias cam according to y<seg rend="sup">e</seg> {pro}mis.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:15160:5"/>
+               <head>OF THE INCARNATION. OF CHRIST IESVS.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">Q</seg>VHEN</hi> The fulnes of tyme cam,<note place="margin">
+                     <hi>Gala.</hi> 4.</note> God send his Sone, his eternall wysedome, the substance off his a win glorie, in this warld, quho tuke the nature of manhede of ye substāce of a woman, to wit, of a Virgine,<note place="margin">
+                     <hi>Luc.</hi> 1. <hi>&amp;.</hi> 2</note> and that be operation of the haly gaist and so wes borne the iuste seid of Dauid, the An<g ref="char:EOLunhyphen"/>gell of the gret counsale of <hi>GOD,</hi>
+                  <note place="margin">
+                     <hi>Esaye.</hi> 7.</note> the veray Mes<g ref="char:EOLunhyphen"/>sias promissed. Quhome we acknaledge and cō<g ref="char:EOLunhyphen"/>fesse, Immanuel, veray <hi>GOD,</hi> and verray mā. Twa perfite Naturis vnited and Ioyned in ane {per}sone. By quhilk our confession, we dampne ye dampnable &amp; pestilent Hereseis of Arius, Mac<g ref="char:EOLhyphen"/>cion, Eutiches, Nestorius, &amp; sic vtheris, as ather denye the Eternitie of his Godheade, eythir the veritie of his humane nature, eythir confounde thaim, eythir ʒit denyid thame.</p>
+            </div>
+            <div type="part">
+               <head>QVHY IT BEHOVID THE MEDI<g ref="char:EOLunhyphen"/>ATOR, TO BE VERAY GOD AND VERAY MAN.</head>
+               <p>
+                  <hi>VE</hi> Acknawledge and confesse, thate this moste wounderous Coniunctioun betuir the Godhede, and ye māhede in <hi>CHRIST IESVS,</hi> did proceid from the eternall and inmutable decrie of <hi>GOD.</hi> Whense also oure Saluatioun spryngeth and dependeth.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:15160:6"/>
+               <head>¶ Electione.</head>
+               <p>
+                  <hi>FOR THAT</hi> sam eternale <hi>GOD</hi> and father quho of mear grace electit vs in Christ Ies{us} his Sone before the fundation of the warld was laid,<note place="margin">
+                     <hi>Ephe.</hi> 1.</note> appoyntit him to be our head, our brother,<note place="margin">
+                     <hi>Hebre.</hi> 2.</note> our pastour, and gret Byschope of oure saulis.<note place="margin">
+                     <hi>Ioan,</hi> 10.</note> But because that the inimitie betuix y<seg rend="sup">e</seg> Iu<g ref="char:EOLunhyphen"/>stice of God, and our synnis was sick that no fle<g ref="char:EOLhyphen"/>sche bye it selfe, coulde or mycht haue atteaned vnto God. It behouid that y<seg rend="sup">e</seg> sone of <hi>GOD,</hi> suld discend vnto vs, and take him self a body, of our body, flesche of our flesche, and bones of our bo<g ref="char:EOLhyphen"/>nes:<note place="margin">
+                     <hi>Ioan.</hi> 1.</note> and so become the perfyte mediatour betuix God and man: geuin power to sa mony as beleif in him to be the sonnis of God. As him self doth wytnes. I passe vp to my Father, &amp; vnto ʒoure father,<note place="margin">
+                     <hi>Ioan.</hi> 20.</note> to my God, &amp; vnto ʒour God. By quhilk maist haly Fraternitie, quhat soeuer we haue lost in Adam, is restored to vs againe. And for this cause ar we nocht effrayit to call God our father, not so mekle y<seg rend="sup">t</seg> he hes created vs (quhilk we haif commoun with the reprobat) as for that. that he hes geuin to vs his only Sone to be our brother and geuin vnto vs grace, to acknawledge &amp; em<g ref="char:EOLhyphen"/>brace him for our onlye Mediatour, as before is said. It behoued farther the Messeas, and rede<g ref="char:EOLhyphen"/>mer to be veray God,<note place="margin">
+                     <hi>Esaye.</hi> 53.</note> and veraye man, because, he wes to vnderly the punismēt dew for our tran<g ref="char:EOLunhyphen"/>sgressionis,
+<pb facs="tcp:15160:6"/> and to present him self in the presens of his fatheris Iugementis, as in oure persoun, to suffer for our transgressioun, and inobedience by death, to ouercū him that wes auctor of deth. But because the onlie godhede, coulde nocht suf<g ref="char:EOLhyphen"/>fer deth, nother ʒit could the onlie māhede ouer<g ref="char:EOLhyphen"/>cum the same: he ioyned baith together in one {per}<g ref="char:EOLhyphen"/>son, that the Imbecilitie of the one, sulde suffer &amp; be subiect to death, (quhilk we hade deseruit) &amp; the infinyte and inuinsable power of the vther, to wit, of the godhede sulde tryumphe and purches tyl vs lyfe, libertie, and perpetuall victorie. And so we confes and most vndoutedlie beleue.</p>
+            </div>
+            <div type="part">
+               <head>CHRISTIS DETH, PAS<g ref="char:EOLhyphen"/>SIOVN, BVRIALL. <hi>&amp;c.</hi>
+               </head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>HAT OVR LORD IESVS,</hi> of<g ref="char:EOLhyphen"/>ferit him self,<note place="margin">
+                     <hi>Hebre.</hi> 10.</note> a voluntarie Sa<g ref="char:EOLhyphen"/>crifice vnto his Father for vs, y<seg rend="sup">t</seg> he sufferit contradictioun of sin<g ref="char:EOLhyphen"/>naris, that he wes woundit,<note place="margin">
+                     <hi>Esai.</hi> 53.</note> and plaigid for our trasgressionis.</p>
+               <p>That he being the cleane and in<g ref="char:EOLunhyphen"/>nocent Lambe of <hi>GOD,</hi> was dampnit in the pre<g ref="char:EOLhyphen"/>sens of a erthlye Iuge: that we suld be absoluit before y<seg rend="sup">e</seg> tribunal sait of our <hi>GOD.</hi> That he suf<g ref="char:EOLhyphen"/>ferit nocht onlye the creuell death off the Croce, (quhilk was accursed by the sentence of <hi>GOD</hi>) but also y<seg rend="sup">t</seg> he sufferit for a seassone,<note place="margin">
+                     <hi>Deut.</hi> 21.</note> y<seg rend="sup">e</seg> wraith of his father, quhilk sinnaris had deserued.<note place="margin">
+                     <hi>Gala.</hi> 3.</note> But ʒit
+<pb facs="tcp:15160:7"/> we auow, y<seg rend="sup">e</seg> he remanit ye only weilbelouit &amp; bly<g ref="char:EOLunhyphen"/>ssed sone of his father, euin in the myddis off his anguische, and tormēt, quhilk he sufferit in body &amp; saule, to mak y<seg rend="sup">e</seg> ful satisfactiō, for y<seg rend="sup">e</seg> sinnis of his peple.<note place="margin">
+                     <hi>Hebre.</hi> 10.</note> After the quhilk we cōfes &amp; auow, thate thair remanis no vther sacrifice for sinne, quhilk geue ony affirme, we na thing dout to auow, that thay ar blasphemous aganist Christis deth, and the euerlasting purgation, &amp; satisfaction, purche<g ref="char:EOLhyphen"/>ssed tyll vs by the same.</p>
+            </div>
+            <div type="part">
+               <head>RESVRREXTION.</head>
+               <p>
+                  <hi>VVE</hi> Vndoutedlie beleue, that in samekle as it was Impossible that the dolouris off death,<note place="margin">
+                     <hi>Act.</hi> 2. <hi>&amp;</hi> 3</note> sulde reteane in bondage, the auc<g ref="char:EOLhyphen"/>thor of lyfe: that our Lorde Iesus crucifeit, dede and bureit,<note place="margin">
+                     <hi>Roman.</hi> 6.</note> quho discendit into hell, did ryse a<g ref="char:EOLhyphen"/>gaine, for our Iustification, and distroying him quho wes aucthor of death, brocht lyfe agane tyl vs, that war subiect to deth, and to the bondage of the same.<note place="margin">
+                     <hi>Math.</hi> 28.</note> We knaw that his resurrection wes confirmit by the testimonye of his veraye Enni<g ref="char:EOLhyphen"/>meis. By the resurrectioun of the deade, quhose Sepulchres did opin, &amp; thaye did aryse, and ap<g ref="char:EOLhyphen"/>peier to mony within the Cietie of Ierusalem.<note place="margin">
+                     <hi>Math.</hi> 27.</note> It was also confirmit by the testimony off Angelis, and by the sensis and iudgementis of his Aposto<g ref="char:EOLunhyphen"/>lis,<note place="margin">
+                     <hi>Ioan.</hi> 20. <hi>&amp;</hi> 21.</note> and of vtheris. Quho had conuersatioun, &amp; did eate and drynke with him after his resurrec<g ref="char:EOLhyphen"/>tioun.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:15160:7"/>
+               <head>Ascentioun.</head>
+               <p>
+                  <hi>VE NA</hi> thing dout, but that the same self bo<g ref="char:EOLunhyphen"/>dy, quhilk wes borne of y<seg rend="sup">e</seg> virgine, wes cruci<g ref="char:EOLunhyphen"/>fied dead, &amp; buried, and quhilk did ryse agane,<note place="margin">
+                     <hi>Actum.</hi> 1.</note> did ascend into the heauinnis: for the accomplis<g ref="char:EOLhyphen"/>ment of all thingis: quhare in our names, and for oure comforte,<note place="margin">
+                     <hi>Math.</hi> 28.</note> he haith reseauit all power in hea<g ref="char:EOLhyphen"/>uin and earth, quhare he sittis at the rycht hande of the Father Inaugurat in his kingdome,<note place="margin">1. <hi>Ioan.</hi> 2. 1. <hi>Temo.</hi> 2. <hi>Psalm.</hi> 110</note> Ad<g ref="char:EOLhyphen"/>uocat, and only Mediatour for vs. Quhilk glo<g ref="char:EOLhyphen"/>rie, honour, and prerogatiue, he allone amangis the brerhren sall possesse tyll that all his enimeis be maid his fute stule. As that we vndoutidlye beleue thay salbe in the finall Iudgement: to the executioun quhairof we certaynelie beleue, that y<seg rend="sup">e</seg> same our <hi>LORD</hi> Iesus, sall visiblie returne, as y<seg rend="sup">e</seg> he was sene to ascende.<note place="margin">
+                     <hi>Actum.</hi> 1. <hi>Ioan.</hi> 19. <hi>Actum.</hi> 3.</note> And than we firmelie be<g ref="char:EOLhyphen"/>leue, that the tyme of refresching, and restitution of all thingis sal cum, in sa mekle that those that frome the beginning haue sufferit violence, In<g ref="char:EOLhyphen"/>iurye, and wrang for rychteousnes saik, sal inhe<g ref="char:EOLhyphen"/>rite that blyssit Immortalitie: promissit from the beginning. But contrariwyse the stubburne, ino<g ref="char:EOLunhyphen"/>bedient, crewell oppressouris, filthy personis,<note place="margin">
+                     <hi>Apcal.</hi> 20. <hi>Isay.</hi> 66.</note> I<g ref="char:EOLhyphen"/>dolatouris, and all sortis of vnfaithfull, salbe caste in the
+<pb facs="tcp:15160:8"/> Dungeoun of vter darknes. Quhair thair wor<g ref="char:EOLhyphen"/>me sall not dee, neythir ʒit thair fyre be extinguis<g ref="char:EOLhyphen"/>sid. The remembrance of quhilk day, and of the Iudgemēt to be executed in the same, is not only tyll vs a bridell, quhairby oure carnale lustis are refreynid: but also sicke inestimable confort, that nother maye the threatning of wardlye Princes, neyther ʒit the feare of temporale death, and pre<g ref="char:EOLhyphen"/>sent dainger, moue vs to renunce, and forsaike, that blyssid societie quhilk we the membris haue with oure head, and onlye Mediatour <hi>CHRIST IESVS.</hi> Quhome we confes and auow, to be ye Messias promissed, the onlye heade of his kirk, our iuste law geuar,<note place="margin">
+                     <hi>Esaye.</hi> 7. <hi>Colloss.</hi> 1. <hi>hebre.</hi> 6. <hi>&amp;</hi> 10.</note> our only hie preist, aduocate and mediatour. In quhilk honouris, and offi<g ref="char:EOLhyphen"/>ces, yf man, or Angell, presume to intruse thaim selfes, we vterlie detest and abhor thaim, as blas<g ref="char:EOLhyphen"/>phemous to oure souerane and supreme gouerno<g ref="char:EOLunhyphen"/>ur Christe Iesus.</p>
+            </div>
+            <div type="part">
+               <head>FAIHT IN THE HOLY GAIST.</head>
+               <p>
+                  <note place="margin">
+                     <hi>Math.</hi> 10.</note>
+                  <hi>THIS OVR</hi> Faith, and the assurance off the same, proceidis nocht frome flesche &amp; blude, that is to say frō no naturall poue<g ref="char:EOLunhyphen"/>ris within vs,<note place="margin">
+                     <hi>Ioan.</hi> 14.15. <hi>&amp;</hi> 16.</note> but is the inspiratioun off y<seg rend="sup">e</seg> holy Gaist: quhōe we confes <hi>GOD,</hi> equale w<seg rend="sup">t</seg> the Father, and with the Sone, quho sanctifieth vs, and bringeth vs in all veritie, by his awin o<g ref="char:EOLhyphen"/>peratioun, without quhome, we sulde remane for
+<pb facs="tcp:15160:8"/> euer <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to God, and ignorant<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure Christ Iesus. For of nature we are so dede, so blynde, and so peruerst, y<seg rend="sup">t</seg> nother can we feil quhē we are prekid, see the lycht quhē it schynis, nor assent to the wyll of <hi>GOD,</hi> quhen it is reueled.</p>
+               <p>Onles the spirite of the <hi>LORD</hi> Iesus, quhickin that quhilk is dede, remoue thee darknes frome our myndis, and bow our stuburne hartes to the obedience of his blyssit wyll. And so as we cōfes that God the Father created vs, quhen we ware not. As his Sonne our lord Iesus, redemit vs,<note place="margin">
+                     <hi>Roman.</hi> 5.</note> quhen we war enimeis to him. So also do we cō<g ref="char:EOLhyphen"/>fes that the holy Gaiste dois sanctifie, and rege<g ref="char:EOLhyphen"/>nerat vs, without all respect of ony merite proce<g ref="char:EOLhyphen"/>ding from vs, be it before, or be it efter our rege<g ref="char:EOLunhyphen"/>neratioun. To speik this one thing, ʒit in more plaine wordis, as we willinglie spoile oure selfis of all honour, and glorie, of our awin creatioun, and redemptioun, so do we also of our Regenera<g ref="char:EOLunhyphen"/>tioun, and sanctificatioun, for of our selfis we ar nocht sufficient to thynke ane gude thocht.<note place="margin">2. <hi>Corin.</hi> 3</note> But he quho hes begoun the gude worke in vs, is on<g ref="char:EOLhyphen"/>ly he that cōtinueth vs in the same to the prayse &amp; glorie of his vndeseruit grace.</p>
+            </div>
+            <div type="part">
+               <head>THE CAVS OF GVDE VVORKIS</head>
+               <pb facs="tcp:15160:9"/>
+               <p>SO that y<seg rend="sup">e</seg> cause of gude workis, we {con}fes to be nocht our fre wyll,<note place="margin">
+                     <hi>Ioan.</hi> 15. <hi>Ephe.</hi> 2.</note> bot the spirite of thee lorde Iesus, quhoo dweling in our hartis be trew faith, bryngis furth sic gude workis, as <hi>GOD</hi> hes preparit for vs, to walk into. For this we most baldlie affirme, that blasphemye it is to saye, that <hi>CHRIST</hi> Iesus abydis in the harte of sic, as in quhome thair is na spirite of Sanctifi<g ref="char:EOLhyphen"/>catioun. And thairfore we feare not to affirme, y<seg rend="sup">e</seg> Murtheraris, Oppressouris, creuel Persecuta<g ref="char:EOLunhyphen"/>ris, Adulteraris, Huremongaris, fylthie perso<g ref="char:EOLhyphen"/>nis, Ydolatourts, drounkardis, Theauis,, and al wyrkars of Iniquitie, haue nother trew faith, nother ony portioun of the spirite of the <hi>LORDE</hi> Iesus: so lang as obstinatly that {con}tinew in thair wickednes. For how sune that euer the Spirite of the Lord Ies{us} (quhilk Goddis elect Children resaue by trew faith) takis possession in the hart of ony man, sa sune dois he regenerat and renew the same man, so that he beginnis to haite that, quhilk before he louid, and beginnis to loue yat quhilk before he hatid. And frome thense cuinis that continewal battell, quhilk is betuix the fle<g ref="char:EOLhyphen"/>sche, and the spirite, in goddis childrene. Quhill the flesche and naturall man,<note place="margin">
+                     <hi>Gala.</hi> 3.</note> (according to thee awin corruptioun) lustis for thingis pleasing, &amp; delectable, vnto the self, grudgis in aduersitie, is lyftit vp in prosperitie, and at euerye moment, is prone, and ready, to offend the maiestie of god. But the spirite of <hi>GOD,</hi> quhilk geuis witnessing
+<pb facs="tcp:15160:9"/> tyl our spirite, that we ar the sonnis of god,<note place="margin">
+                     <hi>Roman</hi> 8.</note> ma<g ref="char:EOLhyphen"/>kis ws to resist the deuyll, to abhorr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fylthie plea<g ref="char:EOLunhyphen"/>souris, to grone in goddis presens for delyuerāce frome this bondage of corruption, and finalie so to tryumphe ouer Syn, that it reigne not in oure mortall bodeis. This battell hes not the carnel men, being destitute of goddis spirite: but do fol<g ref="char:EOLunhyphen"/>low, and obey syn with gredines, and without re<g ref="char:EOLunhyphen"/>pentance, euin as the deuyl and thair corrupt lu<g ref="char:EOLhyphen"/>stis do prick thame. But the sonnes of <hi>GOD,</hi> (as before is said) dois fecht against syn, do sobe and murne, quhen thay persaue thaim selfis temptid to iniquitie, and geue thay fall, thay ryse agane, with erneste and vnfeanid repentance, and these thingis thay do, not by thair awin power, but by the power of the lorde Iesus, withoute quhome,<note place="margin">
+                     <hi>Ioan.</hi> xv.</note> thay war able to do no thing.</p>
+            </div>
+            <div type="part">
+               <head>QVHAT VVORKIS AR REPVTED GVDE BEFORE GOD.</head>
+               <p>
+                  <hi>VVE</hi> Confesse and ackawledge, that <hi>GOD</hi> hes geuin to mā, his holy lawe: in quhilk,<note place="margin">Exod. <hi>20.</hi> Deut. <hi>4.</hi> &amp; <hi>5.</hi> &amp;c.</note> nocht onely are forbiddin all sic wordis as displeis, &amp; offende, his Godlye Maiestie, but al<g ref="char:EOLhyphen"/>so ar commandit al sick, as pleisse him, and as he haith promissed to rewarde.</p>
+               <pb facs="tcp:15160:10"/>
+               <p>And these workis be of two sortis. The ōe ar do<g ref="char:EOLhyphen"/>ne to the honour of god: the vther to the proffect of oure nychtbouris: and baith haue the reuelid wyll of <hi>GOD,</hi> for thair assurance. To haue one God, to worschipe and honour him, to call vpone him in all our troublis, reuerence his haly name, to heir his worde, to beleue the same, to cōmu<g ref="char:EOLhyphen"/>nicat with his holy Sacramentis: ar the workis of the first table.<note place="margin">
+                     <hi>Ephe.</hi> 6. <hi>Roman.</hi> 13. 1. <hi>Timo.</hi> 2. <hi>&amp;.</hi> 6. <hi>Ezech.</hi> 22 <hi>Iereme.</hi> 22 <hi>Esai.</hi> 58. 1. <hi>Tessa.</hi> 4 <hi>Luc.</hi> 2.</note> To honour Father, Mother, Princes, Rewlars, and superiour poweris. To lufe thaim, to support thame, ʒea, to obey thare charges (not repugnyng to the cōmandiment of <hi>GOD</hi>) To saue the lyues of Innocentis, to re<g ref="char:EOLhyphen"/>presse tyrrannie, to defende the oppressed, to keip our bodeis clene, and haly to leue in sobrietie, &amp; temperance, to deal iustlie with all man, baith in worde and deid, and finallye to represse all appe<g ref="char:EOLhyphen"/>tite of our nychtbouris hurte, ar the gude workis of the secunde table. Quhilk ar moste pleasinge and acceptable vnto <hi>GOD,</hi> as those workis that ar commandit by him self. The contrary quhair<g ref="char:EOLhyphen"/>of, is sin maist odious, quhilk alwayis displeasis him,<note place="margin">
+                     <hi>Ephe.</hi> 5.</note> and prouocke him to anger. As not to call vpon him alone, quhen we haue neid, not tyll heir his worde with reuerence, to contempne and dispyse it to haue or to worschipe Ydollis, to ma<g ref="char:EOLunhyphen"/>inteane, and defende, Idolatrie, lychtlye to este<g ref="char:EOLhyphen"/>me the reuerēt name of <hi>GOD,</hi> to prophane abuse, or contempne the Sacramentis of Christ Iesus, To disobey or resist ony, that God hes placeid in
+<pb facs="tcp:15160:10"/> authoritie (quhill thay passe not ouer the boun<g ref="char:EOLhyphen"/>dis of thair office.) To murthare,<note place="margin">
+                     <hi>Roman.</hi> 13.</note> to cōsent thair<g ref="char:EOLhyphen"/>to, to beir haitrent, or to suffer Innocent blude be<g ref="char:EOLunhyphen"/>sched, geue we may gainstād it:<note place="margin">
+                     <hi>Ezche</hi> 12</note> &amp; finalie ye tran<g ref="char:EOLunhyphen"/>sgressioun of ony vther cōmandimēt, in the first, or secunde table. We confesse and affirme to bee Syn: by the quhilk Goddis hote dipleasoure is kendelid against the proude, &amp; vnthākful warld.</p>
+               <p>So that gude workis we affirme to be these onelye, that ar done in faith, at goddis cōmandi<g ref="char:EOLhyphen"/>ment: Quho in his law hes expressed, quhat be the thingis that please him. And euyll workis, we affirme not only those that expressidlie ar done against goddis commandiment, but those also y<seg rend="sup">t</seg> in materis of religion, &amp; wyrschopping of <hi>GOD,</hi> haue no vther assurance, but the Inuention and opinion of mā: quhilk God from the beginning, hes euer reiectid. As by the propheit I saye, &amp; by our maister Christe Iesus, we ar taucht in these wordis. In vaine do thay wyrschipe me,<note place="margin">
+                     <hi>Isay.</hi> 29. <hi>Mat.</hi> 13.</note> teache<g ref="char:EOLhyphen"/>ing the Doctrynes, and preceptes of men.</p>
+            </div>
+            <div type="part">
+               <head>THE PERFECTION OF THE LAVV, AND IMPERFEC<g ref="char:EOLhyphen"/>TION OF MAN.</head>
+               <p>
+                  <hi>THE LAVV</hi> of <hi>GOD</hi> we confesse, and ac<g ref="char:EOLhyphen"/>knawledge, maist iust, maist equale,<note place="margin">
+                     <hi>Roman.</hi> 7. <hi>Psalme.</hi> 19.</note> ma<g ref="char:EOLhyphen"/>ist haly, and maist perfect, commanding those thingis, quhilk being wrocht in per<g ref="char:EOLunhyphen"/>fectioun, war able to geue lyfe, and to bring man
+<pb facs="tcp:15160:11"/> to eternal felicitie.<note place="margin">
+                     <hi>Deuter.</hi> 5. <hi>Roman.</hi> 10.</note> But our nature is so corrupt, so weake, and so imperfect, that we ar neuer able to fulfyl the workis of the law in perfection. Yea, geue we say we haue na syn (euin efter we ar rege<g ref="char:EOLunhyphen"/>nerat) we desaue our selfis,<note place="margin">1. <hi>Ioan.</hi> 1.</note> &amp; ye veritie of god is nocht into vs. And thairfore it behoueth vs too apprehend Christ Iesus with his Iustice, and sa<g ref="char:EOLhyphen"/>tisfactioun,<note place="margin">
+                     <hi>Roman.</hi> 10. <hi>Gala.</hi> 3. <hi>Deut.</hi> 26. <hi>Ephe.</hi> 1. <hi>Roma.</hi> 4.</note> quhoo is the end, and accomplische<g ref="char:EOLhyphen"/>ment of the law: by quhom we at set at this liber<g ref="char:EOLunhyphen"/>tie, that the curse and malediction of the law, fall not vpon vs, albeit we fulfyll not the same in all poyntis. For <hi>GOD</hi> the father behalding vs in the body of his sonne Christ Iesus, acceptith our imperfyte obedience, as it war perfyte: and coue<g ref="char:EOLhyphen"/>reth our workis quhilk ar defylit, with mony spot<g ref="char:EOLunhyphen"/>tis, with the iustice of his sonne. We do not mea<g ref="char:EOLhyphen"/>ne that we ar set so at libertie, that we awe no obe<g ref="char:EOLunhyphen"/>dience to the law (for that before we haue plainlie confessed) But this we affirme,<note place="margin">
+                     <hi>Luc.</hi> 10.</note> thate noo Man in earth (Christ Iesus only excepted) hath geuin, geueth, or sall geue in worke, thate Obedience to the law, Quhilk the law requireth. But quhē we haue done all thingis, we mon fall doun, and vnfeanidlie confesse, that we ar vnprofitable ser<g ref="char:EOLhyphen"/>uādis, and thairfore, quhosoeuer boste thaim sel<g ref="char:EOLunhyphen"/>fis of the meritis of thair awī workis, or put thar traist in the workis of supererogation, bost thaim seluis of that quhilk is not, and put thair traiste in Damnable Ydolatrie.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:15160:11"/>
+               <head>Of the Kirk.</head>
+               <p>AS <hi>VVE</hi> beleue in ane <hi>GOD</hi> father sone, &amp; ha<g ref="char:EOLhyphen"/>ly Gaist. So do we maist constantlie bele<g ref="char:EOLhyphen"/>ue, that frome the beginning thair hes bene,<note place="margin">
+                     <hi>Mat.</hi> 28.</note> now is, and to the end of the warld salbe, a Kirk, that is to say,<note place="margin">
+                     <hi>Ephe.</hi> 1.</note> ane companye and multitude of mē chosin of <hi>GOD,</hi> Quho rychtlie worschipe and em<g ref="char:EOLunhyphen"/>brace him by trew faith, in Christ Iesus, quho is the only heade of the same Kirk,<note place="margin">
+                     <hi>Colloss.</hi> 1. <hi>Ephe.</hi> 5.</note> quhilk also is ye body and spousse of Christ Iesus. Quhilk kirk is catholick, that is vniuersal, because it cōtenis the Elect of all agis, all Realmes, Nationis,<note place="margin">
+                     <hi>Apoca.</hi> 7.</note> &amp; tōngis, be thay of the Iowes, or be thay of y<seg rend="sup">e</seg> Gēti<g ref="char:EOLunhyphen"/>les: quho haue communioun &amp; societie w<seg rend="sup">t</seg>
+                  <hi>GOD</hi> the father, &amp; with his sonne Christ Iel{us}, throuch the sanctificattoun of his holy spirite, &amp; thairfore is it callit the Cōmunioun (not of prophane per<g ref="char:EOLhyphen"/>sonis) but of Sanctis:<note place="margin">
+                     <hi>Ephe.</hi> 2.</note> Quho as Cietezanis off the heauinlye Hierusalem, haue the fruitioun off the maiste Inestimable benefites, to wit, of ane <hi>GOD,</hi> ane <hi>LORD</hi> Iesus, ane faith, and off ane Baptime. Outw<seg rend="sup">t</seg> the quhilk kirk thair is nother lyfe, nor eternall felicitie. And thairfore we vter<g ref="char:EOLunhyphen"/>lie abhore, the blasphemy of those, that affirme y<seg rend="sup">e</seg> men that lyue according to equitie and iustice, sal be sauid, quhat Religioun so euit thay haue pro<g ref="char:EOLhyphen"/>fessed. For as without Christ Iesus thair is no<g ref="char:EOLhyphen"/>ther lyue, nor Saluatioun, Soo sall thair nane
+<pb facs="tcp:15160:12"/> be participant thairof, but sick as the Father hes geuin vnto his sonne Christ Iesus,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 5. <hi>&amp;</hi> 6.</note> and those in tyme cum vnto him, auow his doctryne, and be<g ref="char:EOLhyphen"/>leue into him (We cōprehend the childrene, with the faithfull parentis.) This Kirk is vnuisible, knawin only to <hi>GOD,</hi> quho alone knaw it, quh<g ref="char:EOLunhyphen"/>ome he hes chosin, and comprehendis alswiel (as said is) the elect that be departed (cōmounlie cal<g ref="char:EOLunhyphen"/>lit the Kirk tryumphant) as those that ʒit leue, &amp; fecht aganis syn, and Sathan, as sall leif Heir<g ref="char:EOLhyphen"/>efter.</p>
+            </div>
+            <div type="part">
+               <head>THE IMMORTALITIE OF THE SAVLIS.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>HE</hi> Elect departid ar in peace &amp; rest frome thair laubours,<note place="margin">
+                     <hi>Apoca.</hi> 14.</note> nocht that thay sleipe, and cum to ane certane Obliuion,<note place="margin">
+                     <hi>Apoca.</hi> 7.</note> (as sum fan<g ref="char:EOLhyphen"/>tasticks do affirme) but that yat ar delyuerit frō all feare, all tor<g ref="char:EOLhyphen"/>ment, &amp; al temtatioun, to quhilk we, and all goddis elect ar subiect in this lyfe, ād thairfore do beare the name of the Kirk militant. As {con}trarewyse, y<seg rend="sup">t</seg> re{pro}bate &amp; ōfaithful de{per}tit, haif anguische, tormēt, and paine, that can not be ex<g ref="char:EOLhyphen"/>pressed. So that nother ar the one, nor the vther, in sicke sleip, that thay feill not Ioye, or torment, as the parable of Christ ies{us} in y<seg rend="sup">e</seg> 16. of Luc. His wordis to the Theif. And these wordis of y<seg rend="sup">e</seg> sau<g ref="char:EOLhyphen"/>les cryeing vnder the Aulter, O Lorde thou that art rychteous and iuste, how lang sall thow not<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:15160:12"/> reuenge our blude vpon those that dwell one the earth?</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>OF THE NOTES BY THE QVHILK</hi> The trevv Kirk, is decerned frome the fals. And quhoo salbe Iudge of the Doctryne.</head>
+               <p>
+                  <hi>BECAVSE</hi> that Sathan, from the begin<g ref="char:EOLhyphen"/>ning hes laubourit to decke his pestilente Synagoge, with the tytle of the Kirk of <hi>GOD,</hi> and hes inflambid the hairtes off creuell Murtheraris, to persecute, trouble, &amp; mo<g ref="char:EOLhyphen"/>lest, the trew Kirk, and membris thairof.<note place="margin">
+                     <hi>Gene.</hi> 4.21. <hi>&amp;</hi> 27.</note> As Ca<g ref="char:EOLhyphen"/>in, did Abell, Ismaell, Isaac, Esaw, Iacob, and y<seg rend="sup">e</seg> hole presthed of y<seg rend="sup">e</seg> Iowis. Christ Ies{us} him self, &amp; his Apostis after him.<note place="margin">
+                     <hi>Math.</hi> 25. <hi>.Ioan.</hi> 11. <hi>Actu.</hi> 3.</note> It is ane thing maist re<g ref="char:EOLhyphen"/>quisit, that the trew Kirk, be decernit frome thee fylthie Synagoge, be cleare and perfect notes, leste we being desaued, reseaue and embrace, to our awin condamnatioun, the one, for the vther. The notes, signes, and assurit taiknes, quhair<g ref="char:EOLhyphen"/>by the Immaculate spousse off Christe Iesus is knawin, frome that horrible harlot, the Kirk ma<g ref="char:EOLhyphen"/>lignnant: We affirme ar nother antiquitie, tytle vsurpid, lineal discence, place apoynted, nor mul<g ref="char:EOLunhyphen"/>titude of men approuing ane errour. For Cain in age, and tytle, wes preferrit to Abell, and Seth. Ierusalem had prerogatiue abufe all places of y<seg rend="sup">e</seg> earth, quhair also war the preistes lineallie discen did from Aaron, and greater multitude followid
+<pb facs="tcp:15160:13"/> the Scribis, Phariseis, &amp; preistis, then vnfeanid<g ref="char:EOLunhyphen"/>lye beleuid &amp; approuid Christ Ies{us}, and his doc<g ref="char:EOLhyphen"/>tryne, and ʒit as we suppose na man (of hole Iu<g ref="char:EOLhyphen"/>gemēt) wyll grant that ony of the fornamid, war the kirk of <hi>GOD.</hi> The notes thairfor of the trew kirk of God, we beleue, confesse, and auow, to be first, the trew precheing of the worde of God, in<g ref="char:EOLhyphen"/>to the quhilk God hes reuealid him self to vs,<note place="margin">
+                     <hi>Ioa.</hi> 1 <hi>&amp;</hi> 10</note> as the wryttingis of the Prophetis, and Apostlis do declair. Secundlie, the rycht administration of the Sacramentis of Christ Iesus, quhilk mon be annexid vnto the worde, and promissis of God, to seale, and confirme, the same in our hartis.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Roma.</hi> 4.</note>Laste, ecclesiasticall disiplyne, vprychtlie minis<g ref="char:EOLhyphen"/>trid, as goddis worde prescribith, quhairby vice is repressed.<note place="margin">1. <hi>Corin.</hi> 5.</note> and vertew nurissed. Quhairsoe<g ref="char:EOLhyphen"/>uer than these formare notes ar sene, and of ony tyme continew (be the noumber neuer so few, a<g ref="char:EOLhyphen"/>bufe twa or three, (thair but all dout is the trew kirk of Christ, quhoo according to his promis, is in the myddis of thaim: not that vniuersall (off quhilk we haue before spokin) but particulare, sicke as was in Corinthus,<note place="margin">
+                     <hi>Act<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 16.18. <hi>&amp;c.</hi> 1. <hi>Corin.</hi> 1. <hi>Actu.</hi> 20.</note> Galacia, Ephesus, &amp; vtheris places, in quhilk the ministerie was plan<g ref="char:EOLunhyphen"/>tid by Paule, &amp; war of him self named the kirkis of God. And sicke kirkis, we the inhabitantis of the realme of Scotlande, professours of Christe Iesus, confesse our selfis to haue in our Cieties, tounis, and palces reformid. For the doctryne, taucht in our kirkis, is {con}tenit in the wryttin wor<g ref="char:EOLhyphen"/>de
+<pb facs="tcp:15160:13"/> of <hi>GOD,</hi> to wit, in the Bukis of new and alde Testamentis: In those bukis we meane, quhilk of the ancient haue bene reputid Canonicall, in y<seg rend="sup">e</seg> quhilk we affirme that al thingis necessarie to be beleuid for the saluation of mankynde, is suffici<g ref="char:EOLhyphen"/>entlie expressed, y<seg rend="sup">e</seg> interpretatioun quhairof,<note place="margin">
+                     <hi>Ioan.</hi> 21.</note> we cō<g ref="char:EOLunhyphen"/>fesse neather apperteanith to priuat, nor publect persoun, neather ʒit to ony kirk, for onye preemi<g ref="char:EOLhyphen"/>nence, or prerogatiue, personall, or local, quhil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one, hes abufe another: but apperteanith to thee spirite of God, by thee quhilk also the Scripture was wryttin. ¶ Quhen controuersie than happeneth, for thee rycht vnderstanding of onye place or sentence of scripture, or for the reforma<g ref="char:EOLhyphen"/>on of ony abuse within the kirk of God, we aucht not so mekle to luke quhat men before vs haue sa<g ref="char:EOLunhyphen"/>id, or done, as vnto that quhilk the holy Gaiste vniformlie speakis, within the bodie of the scrip<g ref="char:EOLunhyphen"/>tures, and vnto that quhilk Christ Ies{us} him self did, and cōmandit to be done.<note place="margin">1 <hi>Corin.</hi> 11.</note> For this is a thing vniuersalie grantit that the spirite of <hi>GOD</hi> (quh<g ref="char:EOLunhyphen"/>ilk is the spirite of vnitie) Is in no thing cōtrari<g ref="char:EOLunhyphen"/>ous vnto him self. Geue than the interpretation, determinatioun, or sentence of ony doctour, kirk or counsale, repunge to the plaine worde of God, wryttin in ony vther place of Scriptur: It is a thing maist certane, that thair is nocht the trew vnderstanding, and meaning of the holy Goste▪ supposing that counsales, Realmes, and Natio<g ref="char:EOLhyphen"/>nis, haif approuid, and reseauid the sam. For we dar not resaue, nor admit, ony interpretatiō quhi<g ref="char:EOLunhyphen"/>lk directlie repugnith, to
+<pb facs="tcp:15160:14"/> onye principall poynte of our faith, to ony vther plaine text of Scripture, or ʒit vnto the rewle of cheritie.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>THE AVCTHORITIE</hi> Of the Scripturis.</head>
+               <p>
+                  <note place="margin">2. <hi>Temo.</hi> 3.</note>
+                  <hi>AS VVE</hi> Beleue and confesse the scriptu<g ref="char:EOLhyphen"/>re of <hi>GOD</hi> sufficient to instruct, and mak the man of <hi>GOD</hi> perfect: so do we affirme and auow the aucthoritie off the same, to be of <hi>GOD,</hi> and nother to depend of mē, nor An<g ref="char:EOLhyphen"/>gelis. We affirme thairfore, that sicke as alled<g ref="char:EOLhyphen"/>ge the scriptur to haif na authoritie, but y<seg rend="sup">e</seg> quhilk it resaueth frome the Kirk, to be blasphemous a<g ref="char:EOLhyphen"/>ganis <hi>GOD,</hi> and Iniutious to the trewe Kirk, quhilk alwayis heareth,<note place="margin">
+                     <hi>Ioan.</hi> 10.</note> and obeythe, the voce of hir awin Spousse, and Pastor, but taketh nocht vpoun hir to be Maistres ouer the same.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>OF GENERALL COVNSALLES.</hi> Of thair pouer, Aucthoritie, and cause of thair conuentioun,</head>
+               <p>
+                  <hi>AS VVE</hi> Do not raschelie dampne y<seg rend="sup">e</seg> quhilk Godlie men assemblid together in Generall counsalles lauchfullie gathered, haue pro<g ref="char:EOLhyphen"/>ponit vnto vs, so withoute Iuste examinatioun, dar we nocht resaue, quhat soeuer is obtrusid vn<g ref="char:EOLunhyphen"/>to mē, vnder the name of generale cōsalles. For plaine it is, that as thay war mē, so haue sum off thaim manifestlie erred, and that, in materis off great weycht, and importance. So far than as
+<pb facs="tcp:15160:14"/> the counsall proueth the determinatioun, and cō<g ref="char:EOLhyphen"/>mandimēt, that it geueth by the plane wourde of God, so far do we reuerence ād embrace the sam: But gyf men vnder the name of a counsale pre<g ref="char:EOLhyphen"/>tend to forge vnto vs, new artycles of our faith, or to make cōstitutionis repugning to y<seg rend="sup">e</seg> worde of God, than vterlie we mon refuse the same, as the doctryne of deuyllis, quhilk drawis our Saulis frō the voce of our only <hi>GOD,</hi> to follow y<seg rend="sup">e</seg> doctri<g ref="char:EOLhyphen"/>nes, and cōstitutionis of men.<note place="margin">1. <hi>Timo.</hi> 4.</note> The cause thane quhy generall counsalles conuenid, was nother to make ony perpetuall law (quhilk <hi>GOD</hi> befor had not maid) nother ʒit to forg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew artycles of our beleue, nother to geue y<seg rend="sup">e</seg> w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d of god authori<g ref="char:EOLunhyphen"/>tie, mekle les to make y<seg rend="sup">t</seg> to be his worde, or ʒit the trew interpretatioun of the same, quhilk was not before by his holy wyll, expressed in his worde.</p>
+               <p>But the cause of cōnsalles (we mene of, sic as me<g ref="char:EOLunhyphen"/>ritit the name of counsalles) was partlie for con<g ref="char:EOLhyphen"/>futatioun of heresies, and for geuin publict con<g ref="char:EOLhyphen"/>fession of thair faith, to the posteriteis follouing, quhilk baith thay did by the aucthoritie of godis wryttin worde, and not by ony opinioun, or prero<g ref="char:EOLunhyphen"/>gatiue, that thay coulde not erre, be reasoun off thair generall assemble. And this we iuge to ha<g ref="char:EOLhyphen"/>ue bene the cheif cause of general counsalis. The vther was for gude polecie, and ordour, to be cō<g ref="char:EOLhyphen"/>stitute, and obseruit in the kirk. In quhilk (as in the hous of <hi>GOD</hi>) it becumis al thingis to be done decentlie, and into ordour.<note place="margin">1. <hi>Cor.</hi> 14.</note> Nocht that we think, that one polecy, and one ordour in ceremo<g ref="char:EOLunhyphen"/>neis,
+<pb facs="tcp:15160:15"/> cā be aponytit for al ageis, tymes &amp; places: for as ceremoneis (sic as mā hes deuisit) ar but tē<g ref="char:EOLunhyphen"/>poral, so may, &amp; aucht thay, to be chengeit, quhē thay rather foster superstitioun, than that thay edifie the kirk vsing the same.</p>
+            </div>
+            <div type="part">
+               <head>Of the Sacramentis</head>
+               <p>
+                  <hi>AS THE</hi> Fatheris vnder the law, (besydis the varitie of the Sacrifices) hade twa cheif Sacramentis to wit, Circumcisiō, and the Pasouer: the dispisaris, &amp; con<g ref="char:EOLhyphen"/>tempnaris quhairof, war not reputed for goddis peple.<note place="margin">
+                     <hi>Gene.</hi> 17.</note> So do we accknawledge and cōfesse, that we now in the tyme of the Euāgell, haue twa Sa<g ref="char:EOLunhyphen"/>cramentis only, Institute be the <hi>LORDE</hi> Iesus, ād cōmandit to be vsit of al those,<note place="margin">
+                     <hi>Math.</hi> 26. <hi>&amp;.</hi> 28.</note> that wyl be re<g ref="char:EOLhyphen"/>putit membris of his body. To wit, Baptisme, and the suppar, or table, of the Lord Iesus, callit y<seg rend="sup">e</seg> cōmuniō of his body &amp; of his blude. And these sacramētis (alsweil of y<seg rend="sup">e</seg> auld, as of the new tes<g ref="char:EOLhyphen"/>tament) war institute of <hi>GOD:</hi> not only to make ane visible difference betuix his peple, and those y<seg rend="sup">e</seg> war without his Leage: But also to exercise the faith of his Childrene, &amp; by participation of y<seg rend="sup">e</seg> sa<g ref="char:EOLhyphen"/>me Sacramentis, to seale in thair hartis, the as<g ref="char:EOLhyphen"/>surance of his promeis,<note place="margin">
+                     <hi>Roma.</hi> 4.</note> and of that moste blyssed Coniunctioun, Vnioun, and Societie, quhilk ye Elect haue with thair heade <hi>CHRITE IESVS.</hi>
+               </p>
+               <pb facs="tcp:15160:15"/>
+               <p>And thus we vterlie dampne, the vanitie of tho<g ref="char:EOLhyphen"/>se, that affirme Sacramentis to be na thyng el<g ref="char:EOLhyphen"/>lis but naked, &amp; bair signes: No,<note place="margin">
+                     <hi>Roma.</hi> 6.</note> we assuredlye beleue, that by Baptisme, we ar ingraftid in Chr<g ref="char:EOLunhyphen"/>iste Iesus, to be maid partakaris of his Iustice, by the quhilk our Synnis ar couered and remit<g ref="char:EOLhyphen"/>tit. And also, that in the Suppar rychtlie vsit,<note place="margin">1. <hi>Cori.</hi> 10 <hi>Ioan.</hi> 6.</note>
+                  <hi>CHRITE IESVS,</hi> is so Ioyned with vs, that he becumis the veraye norischement, and fude, of our saulis: Nocht that we Imagine ony Trans<g ref="char:EOLhyphen"/>substanciatioun of bread, in Christis natural bo<g ref="char:EOLhyphen"/>dy: &amp; of wine, in his natural blude (as y<seg rend="sup">e</seg> Papistis haue perniciouslye taucht, and dampnablie bele<g ref="char:EOLhyphen"/>uit) but this vnioun, and coniunction, quhilk we haue with the body, and blude, of Christe Iesus, in the rycht vse of the Sacrament, Is wrocht by operatioun of the haly Gaist. Quhoo bye trewe faith, caryis vs aboue all thingis that ar visible, carnell, and earthlie, and makis vs to feid vpon the body, &amp; blude of Christ Ies{us}, quhilk was once brokin, and sched for vs, quhilk now is in heuin,<note place="margin">
+                     <hi>Hebre.</hi> 6. <hi>&amp;.</hi> 10.</note> and apperith in the presens of his Father for ws: and ʒit, notwithstāding the far distance of place, quhilk is betuix his body now glorifeit in the he<g ref="char:EOLhyphen"/>uin, and vs now mortal in this earth, ʒit we most assuridlie beleue, that y<seg rend="sup">e</seg> bread that we break, is y<seg rend="sup">e</seg> Communioun of Christis body: and the Coupe,<note place="margin">1. <hi>Cor.</hi> 10.</note> quhilk we blys, is the Communioun
+<pb facs="tcp:15160:16"/> of his blude. So that we confesse, and vndout<g ref="char:EOLhyphen"/>tidlie beleue, that the faithfull, in the rycht vse of the Lordis table, do so eat the body, and drink ye blude,<note place="margin">
+                     <hi>Ioan</hi> 6.</note> of y<seg rend="sup">e</seg> Lord Ies{us}, that he remaneth in thaim &amp; thay in him, ʒea, y<seg rend="sup">e</seg> yai ar so made flesche of his flesche, ād bone of his bones, that as the eternall Godhede hath geuin to the flesche of Christe Ie<g ref="char:EOLhyphen"/>sus (quhilk of the awin conditioun and Nature,<note place="margin">
+                     <hi>Ephe.</hi> 5.</note> was mortall, and corruptable) lyfe, and immor<g ref="char:EOLhyphen"/>talitie, so dotih Christe <hi>IESVS,</hi> his flesche, and blude, eatin, and dronkin, by vs, geue to vs thee same prerogatiues:<note place="margin">
+                     <hi>Ioan.</hi> 6.</note> Quhilk albeit we confes, ar nother geuin vnto vs, at that only tyme, neythir ʒit by the proper power, and vertew of the Sacra<g ref="char:EOLunhyphen"/>ment onelye, ʒit we affirme, that the faithfull, in the rycht vse of the lordis table, hes sick cōiunc<g ref="char:EOLhyphen"/>tioun with Christ Iesus, as the natural man can not apprehend, ʒea, and farther, we affirme, that albeit the faithfull oppressede by negligence, and manlie infirmitie, doith not proffeit sa mekle as thay wald in the veray instāt actioun of the Sup<g ref="char:EOLunhyphen"/>par, ʒit sal it after bryng furth frute as lyuelie se<g ref="char:EOLhyphen"/>id sawin in gude grounde. For the holie Spirite (quhilk can neuer be deuidit frome the rycht in<g ref="char:EOLhyphen"/>stitutioun of the <hi>LORD</hi> Iesus) wyll not frustrat the faithful, of the frute of that misticall actioun, but all this we say cumis be trew faith, quhilk ap<g ref="char:EOLunhyphen"/>prehendith Christe <hi>IESVS,</hi> quhoo onelie, ma<g ref="char:EOLhyphen"/>kis his Sacramentis effectual vnto vs. And thairfore, quhosoeuer sclandereth vs, as that we affirmit, or beleuid. Sacramentis to be only na<g ref="char:EOLhyphen"/>kit,
+<pb facs="tcp:15160:16"/> and bair signes, do iniurye vnto vs, &amp; speike aganis a manifeste treuth. But this liberalie ād francklie we most confesse, that we make ane dis<g ref="char:EOLhyphen"/>tinctioun betuix Christ Iesus in his natural sub<g ref="char:EOLhyphen"/>stance, &amp; betuix the Elimētis in the Sacramētall signes: So that we wyl nother wyrschipe the sig<g ref="char:EOLhyphen"/>nes in place of that, quhilk is signifeit by thaim, nother ʒit do we dispyse, and interprete thaim as vnproffitable and vaine, but do vse thaime with all reuerence, Examining our selfis diligently be<g ref="char:EOLunhyphen"/>fore that so we do, because we ar assured by thee mouth of y<seg rend="sup">e</seg> Apostil, that sicke as eate of y<seg rend="sup">e</seg> bread, and drynke of that Coup vnworthelye,<note place="margin">1. <hi>Cori.</hi> 11.</note> ar giltye of the body, and of the blude of the Lorde Iesus.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>OF THE RYGHT</hi> ADMINIS<g ref="char:EOLhyphen"/>tiatioun of the Sacramentis.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>HAT</hi> Sacramentis be rychtlie ministred we Iudge twa thing{is} requisit: the one, that thay be mi<g ref="char:EOLunhyphen"/>nistrid by lauchfull Ministeris, quhome we affirme to be onelye thay, y<seg rend="sup">e</seg> ar apoyntit, to y<seg rend="sup">e</seg> preche<g ref="char:EOLhyphen"/>ing of the worde, or into quhose mouthis <hi>GOD</hi> hes put sum sermon of exhortati<g ref="char:EOLhyphen"/>oun, thay being men lauchfullie chosin thairto, by sum kirk. The vther, that thaye be ministrid in sicke Elimentis, &amp; in sicke sorte, as <hi>GOD,</hi> hath appoyntit, Ellis we affirme that thay cease to be rycht Sacramentis of Christ Iesus. And thair<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:15160:17"/> it is that we flee y<seg rend="sup">e</seg> societie with y<seg rend="sup">e</seg> Papisticall Kirk, in {per}ticipatiō of thair sacramētis: First be<g ref="char:EOLhyphen"/>cause thair ministeris ar na ministeris of Christe Iesus (ʒea,<note place="margin">1. <hi>Timo.</hi> 6.</note> quhilk is mair horrible) thaye suffer Wemen, quhome the haly Gaist wyll not suffer, to teache in the congregatioun, to Baptise. And secūdlye, because thay haue sa Adulterate baith the one sacrament, and the vther, with thair awin Inuentionis, that na part of Christis action aby<g ref="char:EOLhyphen"/>dis in the Originall puritie. For oyle, salt, spat<g ref="char:EOLhyphen"/>tle, and sicke lyke in Baptisme, ar but mennis in<g ref="char:EOLunhyphen"/>uentionis, adoratioun, veneratiō, bering throuch stretis and tounis, and keping of breade in Box<g ref="char:EOLhyphen"/>is, or buistis, ar prophanatioun of Christis Sa<g ref="char:EOLhyphen"/>cramentis,<note place="margin">Mat. <hi>26.</hi> &amp;</note> &amp; no vse of the same. For Christ Iesus said, take and eate, <hi>&amp;c.</hi> Do ʒe this in remem<g ref="char:EOLhyphen"/>brance of me. By quhilk wordis, and charge, he sanctifeit bread, and wyne, to be the Sacrament, of his body and blude, to the end, that y<seg rend="sup">e</seg> one sulde be eatin, and that all, sulde drynke of the vther: And nocht that thay suld be keipt to be wyrschip<g ref="char:EOLhyphen"/>pid, and honoured as <hi>GOD,</hi> as the Papistis, ha<g ref="char:EOLhyphen"/>ue done heirtofore, quho also haif committit Sa<g ref="char:EOLunhyphen"/>criledge, stealing frome the peple, the one part of the Sacramente, to wit, the blyssed Coup. Mo<g ref="char:EOLhyphen"/>reouer, that the sacramētis be rychtlie vsit, It is requirit, that the end, and cause, quhy the Sacra<g ref="char:EOLunhyphen"/>mentis war instititute be vnderstand, and obser<g ref="char:EOLhyphen"/>uit, alsweill of the Ministare, as the resauaris:</p>
+               <p>For geue the opinioun be cheangit in the resauer the rycht vse Ceasseth:</p>
+               <pb facs="tcp:15160:17"/>
+               <p>quhilk is maist euident by the Reiectioun of thee Sacrifices,<note place="margin">
+                     <hi>Isay.</hi> 1.</note> as also geue the teacher plainlye te<g ref="char:EOLhyphen"/>che fals Doctryne, quhilk war odious, and abho<g ref="char:EOLunhyphen"/>minable vnto <hi>GOD,</hi> (Albeit thay war his awin ordinance,) Because that wicked Men vsed thaim to one vther end, than <hi>GOD</hi> had ordenid. The same affirme we of the Sacramētis,<note place="margin">
+                     <hi>Ierem.</hi> 7. <hi>Isaye.</hi> 66.</note> In the Papistical Kirk, in quhilk we affirme, the hole ac<g ref="char:EOLunhyphen"/>tioun of the Lorde Iesus, to be Adulterate, als<g ref="char:EOLhyphen"/>weill in the externall forme, as in the end, and o<g ref="char:EOLhyphen"/>pinioun. Quhat Christe Iesus did, and commā<g ref="char:EOLhyphen"/>dit to be done, is euident, by three Euangelists,<note place="margin">
+                     <hi>Math.</hi> 26. 1. <hi>Cori.</hi> 11. <hi>&amp;c.</hi>
+                  </note> &amp; by Sanct Paule. Quhat y<seg rend="sup">e</seg> preist dois, at his aul<g ref="char:EOLhyphen"/>ter, We neid nocht rehearse. The end &amp; cause off Christis institutioun, and quhy the self sam sulde be vsit, is expressit in these wordis: Do ʒe this, in remembrance of me. As oft as euer ʒe sall eat of this breade, and drynke off this Coupe, ʒe sall schaw furth (that is extoll, preache, magnifie, ād prayse) the Lordis death tyl he cū. But to quhat end, and in quhat opinioun, the preastis say thair Messis, Lat the wordis of thee same, thair a win Doctouris, &amp; wryttingis wytnes. To wit, that thay as Mediatour{is}, be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uix Christe ād his Kirk, do offer vnto <hi>GOD,</hi> the Father, ane Sacrafice, Propiciatorie for the Synnis of the
+<pb facs="tcp:15160:18"/> quick, and the dede. Quhilk doctrine as blasphe<g ref="char:EOLunhyphen"/>mous to Christ Iesus, and making derogatioun too thee sufficientie of his onelye Sacrifice, on<g ref="char:EOLhyphen"/>ce offerit for purgation of al those that salbe sanc<g ref="char:EOLunhyphen"/>tifeit, we vterlie we abhore, detest, and renounce.</p>
+            </div>
+            <div type="part">
+               <head>TO QVHOME SACRAMEN<g ref="char:EOLhyphen"/>TIS APPETENE.</head>
+               <p>
+                  <hi>VVE</hi> Confesse and acknawledge that Bap<g ref="char:EOLunhyphen"/>tisme apperteneth alsweill to the Infan<g ref="char:EOLhyphen"/>tis of the faithfull, as vnto those that bee of age and discritioun. And so we dampne thee errour of Anabaptistis. Quho denye Baptisme, to apperteine to Childrene, before that thay haue faith, and vnderstanding. But the Suppar off the <hi>LORD,</hi> We confesse to apperteane, to sic only as bene of the househaulde of faith, can trye and examyne thaim selfis, alsweill in thair faith, as in thair dewtie towardis thair nychtbouris. Sic as eate and drynk at that holie table, without fa<g ref="char:EOLhyphen"/>ith, or being at Discensioun, and diuisioun with thair brethren, do eate vnworthelie. And thairfor it is that in our Kirkis, our Ministeris takis pu<g ref="char:EOLhyphen"/>blict and particulare examinatioun of the knaw<g ref="char:EOLhyphen"/>ledge and cōuersation of sicke as ar to be admit<g ref="char:EOLhyphen"/>tit to the Table of the Lorde Iesus.</p>
+            </div>
+            <div type="part">
+               <head>OF THE CIVILE MAGISTRAT.</head>
+               <pb facs="tcp:15160:18"/>
+               <p>
+                  <hi>VVE CONFES</hi> and acknawledge, Impy<g ref="char:EOLhyphen"/>ris, Kyngdomes, Dominionis, &amp; Ceties, to be distinctid and ordened by <hi>GOD,</hi>
+                  <note place="margin">Daniel. <hi>1.</hi> &amp; <hi>2.</hi> &amp;c. Esdr. <hi>1.</hi> &amp;c</note> the poweris and aucthoritie in the same (be it of Emperouris, in thair Impyris, of Kyngis in thair realmes, Dukis, and Princes, in thair Do<g ref="char:EOLunhyphen"/>minionis, or of vtheris Magistrats in fre ceteis) to be Goddis haly ordinance:<note place="margin">
+                     <hi>Roman.</hi> 13.</note> Ordenid for mani<g ref="char:EOLhyphen"/>festatioun of his awin glorie, and for the singula<g ref="char:EOLunhyphen"/>re proffeit, and cōmoditie of mākynde. So that quhosoeuer gois aboute to take away, or to con<g ref="char:EOLhyphen"/>found the hole stait of Ciuile poleceis nowe lang establisched, We affirme the sā mē, not only to be enemeis to mankynde, but also wickedlie to fecht aganis Goddis expressed wyll.</p>
+               <p>¶ We farther confesse and acknawledge, yat sic {per}sonis as ar pleasit in aucthoritie, ar to be loued,<note place="margin">
+                     <hi>Roman.</hi> 13. 1. <hi>Peter.</hi> 2. <hi>Psalme.</hi> 81.</note> honourit, fearit, and haldin in maist reuerent esti<g ref="char:EOLunhyphen"/>matioun: Because thay ar the Liewtennentis of <hi>GOD,</hi> In quhose sessionis, God him self doith sitt &amp; iuge (ʒea, ewin the Iudgis &amp; Princes tha<g ref="char:EOLhyphen"/>me selfis) to quhome be God is geuin y<seg rend="sup">e</seg> sworde to the prayse and defencis of gude men, and to reuē<g ref="char:EOLhyphen"/>ge and puneis, all opin malifactours. To kin<g ref="char:EOLhyphen"/>ges moreouer, Princes, Rewlaris, and Magis<g ref="char:EOLhyphen"/>tratis, we affirme that cheifly and maist principa<g ref="char:EOLunhyphen"/>llie the conseruation and purgation of the religi<g ref="char:EOLhyphen"/>oun appertenis: So that not only thay ar appo<g ref="char:EOLhyphen"/>yntit for ciuile polecie, but also for maintenāce of the trew Religioun, and for suppressing of Idola<g ref="char:EOLunhyphen"/>trie, and superstitioun, quhatsumeuer, as in Da<g ref="char:EOLunhyphen"/>uid,
+<pb facs="tcp:15160:19"/> Iosaphat, Ezechias, Iosias &amp; vtheris hech<g ref="char:EOLhyphen"/>lie cōmēdit for thair zele, in y<seg rend="sup">e</seg> case may be aspied.</p>
+               <p>¶ And thairfore we confesse, and anow, that sic as resiste the supreme power (doing that thing quhilk ap{per}tenis to his charge) do resiste godis or<g ref="char:EOLhyphen"/>dinance,<note place="margin">
+                     <hi>Roma.</hi> 13.</note> &amp; thairfore can not be giltles. And for<g ref="char:EOLhyphen"/>ther we affirme, that quhosoeuer denye vnto tha<g ref="char:EOLhyphen"/>me thair ayd, counsale, and comforte, quhill the princes and rewlaris vigilantlie trauell, in exicu<g ref="char:EOLhyphen"/>tioun, of thair office, y<seg rend="sup">t</seg> the sā mē deny thair help, supporte, and counsale, to <hi>GOD,</hi> quho by the pre<g ref="char:EOLunhyphen"/>sence of his Liewtennent, craueth it of thaim.</p>
+            </div>
+            <div type="part">
+               <head>THE GYFTIS FRELY GEVIN TO THE KIRK.</head>
+               <p>
+                  <hi>ALBEIT</hi> that the worde of <hi>GOD,</hi> trewly pre<g ref="char:EOLunhyphen"/>cheit, the Sacramētis rychtlie ministerit, &amp; disiplyne executed, according to the worde of God, be the certane, and infallible signes, of the trew kirk: ʒit do we not so meane, that euery par<g ref="char:EOLunhyphen"/>ticulare persone, ioyned w<seg rend="sup">t</seg> sic ane companie, bee ane elect mēber of Christe Iesus. For we ackna<g ref="char:EOLhyphen"/>wledge and cōfesse,<note place="margin">
+                     <hi>Math.</hi> 3. <hi>&amp;.</hi> 13.</note> that Darnel, Cockle, &amp; chaffe may be sawin, grow, and in gret aboundance, lye in the myddis of y<seg rend="sup">e</seg> quheit, y<seg rend="sup">t</seg> is, the reprobat may be ioyned in y<seg rend="sup">e</seg> societie of the elect, &amp; may external<g ref="char:EOLunhyphen"/>lie vse with thaim the benefitis of the worde, &amp; sa<g ref="char:EOLhyphen"/>cramentis, but sic being but temporall professou<g ref="char:EOLhyphen"/>ris in mouth, but not in harte, do fall back, &amp; con<g ref="char:EOLunhyphen"/>tinew not to the end. And thairfor haue thay no
+<pb facs="tcp:15160:19"/> frute of Christis death, resurrection, nor ascenti<g ref="char:EOLhyphen"/>on. But sic as w<seg rend="sup">t</seg> harte vnfenʒeitlie beleue,<note place="margin">
+                     <hi>Roma.</hi> 10.</note> and w<seg rend="sup">t</seg> mouth baldlie cōfes the <hi>LORD</hi> Iesus (as before we haue said) sal maist assuredly resaue these gyf<g ref="char:EOLunhyphen"/>tis, first in this lyfe, remissione of synnis,<note place="margin">
+                     <hi>Ioan.</hi> 3. <hi>Romo.</hi> 3.4.5. <hi>&amp;</hi> 8.</note> and yat be onlye faith in Christis blude, in sa mekle, that albeit synne remane, &amp; cōtinewallie abyd, in these our mortal bodeis, ʒit is it not imputed vnto vs, but is remitit, ād couered w<seg rend="sup">t</seg> Christis iustice. Se<g ref="char:EOLunhyphen"/>cūdarlie,<note place="margin">
+                     <hi>Isaye.</hi> 66. <hi>Daniell.</hi> 12 1. <hi>Cori.</hi> 15. <hi>Ioq.</hi> 19.</note> in the generall Iugemēt thair salbe ge<g ref="char:EOLhyphen"/>uin tyll euery man &amp; woman, Resurrection of the flesche: for y<seg rend="sup">e</seg> see sall gif hir dede, the erth those y<seg rend="sup">e</seg> thairin be inclosit: ʒea, the Eternall oure <hi>GOD,</hi> sall streche out his hande vpon the duste, and the dede sall aryse incorruptable, and that in the sub<g ref="char:EOLhyphen"/>stāce of y<seg rend="sup">e</seg> self sā flesch, that euery mā now heris, To resaue accordīg to thair workis, glory,<note place="margin">
+                     <hi>Roma.</hi> 2.</note> or pu<g ref="char:EOLhyphen"/>nischemēt, for sic as now delyte in vanitie, cruel<g ref="char:EOLhyphen"/>tie, fylthines, superstition, or Idolatrie, salbe ad<g ref="char:EOLunhyphen"/>iugit to y<seg rend="sup">e</seg> fyre inextinguible,<note place="margin">
+                     <hi>Apoca.</hi> 20. <hi>&amp;.</hi> 21.</note> in quhilk thay salbe tormētit for <abbr>ev,</abbr> alsweill in yair awī bodeis, as in thair Saulis, quhilk now thay geue to serue the Deuyll, in al abomination. But sic as continew in weill doing to the end, bauldlie professing thee <hi>LORD</hi> Iesus, we constantlie beleue that thay sal resaue glory, honour, ād immortalitie, to reigne for euer in lyfe euerlasting with Christe Iesus: to quhose glorifeit body, all his elect,<note place="margin">1 <hi>Ioan.</hi> 5.</note> salbe maid ly<g ref="char:EOLhyphen"/>ke, Quhen hie sall appeir agane to Iugement, and sall rander vpe the Kinggome to <hi>GOD,</hi>
+                  <note place="margin">1 <hi>Cori.</hi>
+                  </note> his Father, quho than salbe, and euer sal remane, al
+<pb facs="tcp:15160:20"/> in all thingis, <hi>GOD</hi> Blyssed for euer. To quhōe with the Sone, &amp; with the haly Gaist, be al hono<g ref="char:EOLhyphen"/>ure, and glory, now and euer.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <trailer>☞ <hi>ARYSE O LORD, <hi>And lat thy Ennimes be confoundit, lat thaim flee frome thy presence that haite thy Godlye name. Geue thy seruandis strenth to speike thy vvorde, in baldnes, and latt all Natio<g ref="char:EOLhyphen"/>nis atteane to thy trevv knauledge. So be it.</hi>
+               </hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Thir Actis,</hi> and Artycles, ar Red in face of Paliar<g ref="char:EOLunhyphen"/>ment, And ratifiit be the three Estatis of this Realme. At Edinburgh y<seg rend="sup">e</seg> 17. day of Iuly. the ʒeir of God. Ane thowsand fyue hūn<g ref="char:EOLhyphen"/>dreth three score ʒeris. And Im<g ref="char:EOLhyphen"/>prentit be me Ihone Scott. 1561.</p>
+            <pb facs="tcp:15160:20"/>
+         </div>
+      </back>
+   </text>
+</TEI>
